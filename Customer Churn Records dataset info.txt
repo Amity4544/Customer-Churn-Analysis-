@@ -1,4 +1,4 @@
-About Dataset
+About Dataset :
 RowNumber—corresponds to the record (row) number and has no effect on the output.
 CustomerId—contains random values and has no effect on customer leaving the bank.
 Surname—the surname of a customer has no impact on their decision to leave the bank.
@@ -18,10 +18,7 @@ Satisfaction Score—Score provided by the customer for their complaint resoluti
 Card Type—type of card hold by the customer.
 Points Earned—the points earned by the customer for using credit card.
 
-Acknowledgements
-
+Acknowledgements :
 As we know, it is much more expensive to sign in a new client than keeping an existing one.
-
 It is advantageous for banks to know what leads a client towards the decision to leave the company.
-
 Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
